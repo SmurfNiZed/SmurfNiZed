@@ -1,4 +1,4 @@
-This is my school account and most of my projects can be found here. Visit my personal acocunt [![here](https://github.com/zedecpacaldo) 
+This is my school account and most of my projects can be found here. Visit my personal acocunt [here](https://github.com/zedecpacaldo) 
 
 
 # 💫 About Me:
